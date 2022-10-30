@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/uptopali" target="blank"><img src="https://img.shields.io/twitter/follow/uptopali?logo=twitter&style=for-the-badge" alt="uptopali" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain & Web3.0**
+- 🌱 I’m currently learning **Solidity & Smart Contracts**
 
 - 📝 I regularly write articles on [https://alijafri.hashnode.dev/](https://alijafri.hashnode.dev/)
 
