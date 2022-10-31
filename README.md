@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alijafrieth&show_icons=true&locale=en" alt="alijafrieth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alijafrieth&" alt="alijafrieth" /></p>
+
+[![Ali Jafri's github activity graph](https://activity-graph.herokuapp.com/graph?username=AliJafriETH&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
