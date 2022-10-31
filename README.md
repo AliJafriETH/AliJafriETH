@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/uptopali" target="blank"><img src="https://img.shields.io/twitter/follow/uptopali?logo=twitter&style=for-the-badge" alt="uptopali" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity & Smart Contracts**
+- 🌱 I’m currently learning **Solidity & Smart Contracts.**
 
 - 📝 I regularly write articles on [https://alijafri.hashnode.dev/](https://alijafri.hashnode.dev/)
 
-- 💬 Ask me about **Frontend, & Blockchain**
+- 💬 Ask me about **Frontend, & Blockchain.**
 
 - 📫 How to reach me **ahmad.ali.jafri@gmail.com**
 
