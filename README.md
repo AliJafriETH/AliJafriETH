@@ -30,4 +30,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliJafriETH&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALiJafriETH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ali Jafri's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AliJafriETH&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
