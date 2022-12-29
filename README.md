@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uptopali" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="uptopali" height="50" width="60" /></a>
-<a href="https://hashnode.com/@uptopali" target="blank"><img align="center" src="https://simpleicons.org/icons/hashnode.svg" alt="@uptopali" height="50" width="60" /></a>
+<a href="https://alijafri.hashnode.dev/" target="blank"><img align="center" src="https://simpleicons.org/icons/hashnode.svg" alt="@uptopali" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
