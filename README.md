@@ -29,5 +29,3 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AliJafriETH&theme=cobalt)
-
-[![Ali Jafri's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AliJafriETH&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
